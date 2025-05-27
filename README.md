@@ -1,16 +1,37 @@
 ## Hi mi nombre es Elias Arrieta
 
-[<!--
-**EliasArrietaH/EliasArrietaH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador full stack con especializaciónn frontend, tengo conocimientos en desarrollo web y DevOps, enfocado en crear soluciones eficientes y escalables. Me apasiona aprender cosas nuevas y mejorar constantemente mis habilidades técnicas.
 
-Here are some ideas to get you started:
+## 📫 Contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->](url)
+- [Linkedin](https://www.linkedin.com/in/elias-arrieta-b15aa81b9/)
+- Correo: eliasarrieta14012001@gmail.com
+- cel: +57 3104222153
+
+## 🧠 Conocimientos Técnicos
+
+🖥️ Frontend
+
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- Next.js
+- React
+- diferentes tipos de
+
+🛠️ Backend
+
+- Node.js
+- SQL
+
+🚀 Deploy & Hosting
+
+- versel
+- Render
+
+⚙️ DevOps
+
+- Fundamentos de DevOps
+- Automatización y despliegue continuo
