@@ -19,7 +19,6 @@ Soy un desarrollador full stack con especializaciónn frontend, tengo conocimien
 - Tailwind CSS
 - Next.js
 - React
-- diferentes tipos de
 
 🛠️ Backend
 
